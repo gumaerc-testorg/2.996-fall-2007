@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 592d3d87-240e-79db-1d2d-82c6e04d849a
 ---
@@ -109,7 +111,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -130,7 +132,7 @@ Lecture 1 - Introduction
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -171,7 +173,7 @@ Linear elements, thevenin-norton, impedance analysis
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -250,7 +252,7 @@ Begin to acquire components for MCM and other modules
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -293,7 +295,7 @@ Lab 4 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -326,7 +328,7 @@ Robopsy guest lecture
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -369,7 +371,7 @@ Lab 5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -412,7 +414,7 @@ Lab 6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -511,7 +513,7 @@ Integration and test device
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -538,7 +540,7 @@ Final presentations in class: projects 1 and 2
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 15
 {{< tdclose >}}
 {{< tdopen >}}

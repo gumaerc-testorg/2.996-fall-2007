@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: PCB library files for standard components used in class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-996-biomedical-devices-design-laboratory-fall-2007/6e468a6a8982c69cb8b082bfe2358336_bmddesign.cml
+file: /media/courses/2-996-biomedical-devices-design-laboratory-fall-2007/6e468a6a8982c69cb8b082bfe2358336_bmddesign.cml
 file_type: application/msword
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: bmddesign.cml
 uid: 6e468a6a-8982-c69c-b8b0-82bfe2358336
