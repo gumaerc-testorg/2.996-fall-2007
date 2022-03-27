@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c6958fde-a793-c080-4033-7b892134ebe6
 resourcetype: Document
 title: lec5_mcroprcsr_1.pdf
 uid: 0093fffa-38f6-e61e-7717-1652db9af61b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c6958fde-a793-c080-4033-7b892134ebe6
 resourcetype: Other
 title: timer_example.zip
 uid: 0518580c-2d4e-d54e-ba87-7c8ff7f8d4e0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 90c618ee-b6ce-6dbd-d29d-9ac27c71999d
 resourcetype: Other
 title: wootloader.exe
 uid: 3120b9e7-3b49-488e-0fc2-d6b7b06bd0c5

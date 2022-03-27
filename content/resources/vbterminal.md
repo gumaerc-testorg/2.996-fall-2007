@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 90c618ee-b6ce-6dbd-d29d-9ac27c71999d
 resourcetype: Other
 title: VBTerminal.exe
 uid: fcc2e1fc-a3f8-68e2-2796-253a64ddb71e

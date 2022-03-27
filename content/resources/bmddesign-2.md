@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 90c618ee-b6ce-6dbd-d29d-9ac27c71999d
 resourcetype: Other
 title: bmddesign.psl
 uid: 0a65ce04-1d45-ab2d-6ca3-9a276b369235

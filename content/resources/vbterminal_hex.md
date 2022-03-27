@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 90c618ee-b6ce-6dbd-d29d-9ac27c71999d
 resourcetype: Other
 title: VBTerminal_Hex.zip
 uid: a20003df-579d-233b-55d7-a7b6773d519c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c6958fde-a793-c080-4033-7b892134ebe6
 resourcetype: Document
 title: 96_04_ibm_bln_pr.pdf
 uid: e15b3235-48bb-14bf-2a5f-f8e4df49c640

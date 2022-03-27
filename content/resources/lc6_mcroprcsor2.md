@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c6958fde-a793-c080-4033-7b892134ebe6
 resourcetype: Document
 title: lc6_mcroprcsor2.pdf
 uid: 0b6259e5-bf6b-f483-5f7e-13b2b0c644c9

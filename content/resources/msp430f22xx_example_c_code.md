@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c6958fde-a793-c080-4033-7b892134ebe6
 resourcetype: Other
 title: MSP430F22xx_example_C_code.zip
 uid: fe7e2849-829b-1016-41a4-783245acc9a5
