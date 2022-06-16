@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  on teaching staff, grading, and the schedule of lecture topics and key dates for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 592d3d87-240e-79db-1d2d-82c6e04d849a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

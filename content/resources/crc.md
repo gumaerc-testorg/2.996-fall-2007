@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example code for calculating and checking CRC.
-file: /media/courses/2-996-biomedical-devices-design-laboratory-fall-2007/73ca2075accb5c6c774f978b7093cbb8_crc.h
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/73ca2075accb5c6c774f978b7093cbb8_crc.h
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: crc.h
 uid: 73ca2075-accb-5c6c-774f-978b7093cbb8
 ---
+Example code for calculating and checking CRC.
+
