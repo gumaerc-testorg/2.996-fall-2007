@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c6958fde-a793-c080-4033-7b892134ebe6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -24,9 +32,9 @@ TOPICS
 {{< tdopen >}}
 
 
-Introduction ([PDF]({{< baseurl >}}/resources/lecture01))
+Introduction ({{% resource_link be561b76-94f3-fbdf-8035-a12d25d2a2b5 "PDF" %}})
 
-Robopsy slide ([PDF]({{< baseurl >}}/resources/robopsy_slide))
+Robopsy slide ({{% resource_link 8ec5c46c-02da-5d65-885c-cce05951393d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -41,7 +49,7 @@ Robopsy slide ([PDF]({{< baseurl >}}/resources/robopsy_slide))
 
 ### Basic electronics
 
-Linear elements, thevenin-norton, impedance analysis ([PDF]({{< baseurl >}}/resources/lecture02))
+Linear elements, thevenin-norton, impedance analysis ({{% resource_link 4062cb2e-af0a-3299-9c31-2f0c7accbc5b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -56,13 +64,13 @@ Linear elements, thevenin-norton, impedance analysis ([PDF]({{< baseurl >}}/reso
 
 ### Diodes and transistors
 
-Models, LEDs, peak-detector, zeners, diode protection circuits, BJT, FET, amplifiers, drivers, H-bridges ([PDF]({{< baseurl >}}/resources/lecture03))
+Models, LEDs, peak-detector, zeners, diode protection circuits, BJT, FET, amplifiers, drivers, H-bridges ({{% resource_link 22139732-17d2-b3ce-2ec1-d927438e28cc "PDF" %}})
 
 ### Handouts
 
-The Interactive Balloon ([PDF]({{< baseurl >}}/resources/96_04_ibm_bln_pr))
+The Interactive Balloon ({{% resource_link e15b3235-48bb-14bf-2a5f-f8e4df49c640 "PDF" %}})
 
-Balloons.mov ([MOV]({{< baseurl >}}/resources/balloons))
+Balloons.mov ({{% resource_link 3b7576ab-316e-dc1c-cde8-3af27c4a780a "MOV" %}})
 
 
 {{< tdclose >}}
@@ -77,7 +85,7 @@ Balloons.mov ([MOV]({{< baseurl >}}/resources/balloons))
 
 ### Power supplies
 
-Proper bypassing, linear power supplies, switching power supplies ([PDF]({{< baseurl >}}/resources/lec4_pwr_suplies))
+Proper bypassing, linear power supplies, switching power supplies ({{% resource_link 09541052-2b04-7beb-b91d-8395943c60fd "PDF" %}})
 
 MIT libraries lectures on literature and patent searching
 
@@ -94,7 +102,7 @@ MIT libraries lectures on literature and patent searching
 
 ### Microprocessors I
 
-Basic topologies, feedback, stability, accurate peak detector ([PDF]({{< baseurl >}}/resources/lec5_mcroprcsr_1))
+Basic topologies, feedback, stability, accurate peak detector ({{% resource_link 0093fffa-38f6-e61e-7717-1652db9af61b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -109,7 +117,7 @@ Basic topologies, feedback, stability, accurate peak detector ([PDF]({{< baseurl
 
 ### Microprocessors II
 
-Practical considerations, reading op amp datasheets error propagation, filters ([PDF]({{< baseurl >}}/resources/lc6_mcroprcsor2))
+Practical considerations, reading op amp datasheets error propagation, filters ({{% resource_link 0b6259e5-bf6b-f483-5f7e-13b2b0c644c9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -124,27 +132,27 @@ Practical considerations, reading op amp datasheets error propagation, filters (
 
 ### OpAmps I
 
-Basics programming concepts, memory organization, clocks, ADCs ([PDF]({{< baseurl >}}/resources/lec7_opamps1))
+Basics programming concepts, memory organization, clocks, ADCs ({{% resource_link 907a94c9-5f85-7bc5-4acc-4b7f140acad4 "PDF" %}})
 
 ### Handouts
 
-Ones complement ([PDF]({{< baseurl >}}/resources/onescomplement))
+Ones complement ({{% resource_link b13783f3-4785-20b9-da31-96062979b834 "PDF" %}})
 
-main.c ([C](/courses/mechanical-engineering/2-996-biomedical-devices-design-laboratory-fall-2007/lecture-notes/main.c))
+main.c ({{% resource_link 0fce9a9a-824d-7c12-92cb-99ffc7a47117 "C" %}})
 
-adc\_example.zip ([ZIP]({{< baseurl >}}/resources/adc_example)) (The ZIP file contains: adc\_xample\_code.pdf and main.c files.)
+adc\_example.zip ({{% resource_link cacb013e-4101-207a-a688-df8901f1d876 "ZIP" %}}) (The ZIP file contains: adc\_xample\_code.pdf and main.c files.)
 
-demo2.zip ([ZIP]({{< baseurl >}}/resources/demo2)) (The ZIP file contains: main.c, crc.h, and other supporting files for 2nd demo.)
+demo2.zip ({{% resource_link bf7fab3e-ba83-8e4a-0507-13097dd80c71 "ZIP" %}}) (The ZIP file contains: main.c, crc.h, and other supporting files for 2nd demo.)
 
-demo.zip ([ZIP]({{< baseurl >}}/resources/demo)) (The ZIP file contains: main.c and other supporting files for demo.)
+demo.zip ({{% resource_link ba9c0786-cd04-98df-fa01-b59344b178e0 "ZIP" %}}) (The ZIP file contains: main.c and other supporting files for demo.)
 
-dio\_example.zip ([ZIP]({{< baseurl >}}/resources/dio_example)) (The ZIP file contains: dio\_xample\_code.pdf and main.c files.)
+dio\_example.zip ({{% resource_link 31266166-b699-439d-7600-e80a3879110a "ZIP" %}}) (The ZIP file contains: dio\_xample\_code.pdf and main.c files.)
 
-MSP430F22xx\_example\_C\_code.zip ([ZIP]({{< baseurl >}}/resources/msp430f22xx_example_c_code)) (The ZIP file contains: 123 .c files.)
+MSP430F22xx\_example\_C\_code.zip ({{% resource_link fe7e2849-829b-1016-41a4-783245acc9a5 "ZIP" %}}) (The ZIP file contains: 123 .c files.)
 
-timer\_example.zip ([ZIP]({{< baseurl >}}/resources/timer_example)) (The ZIP file contains: timr\_xample\_code.pdf and main.c files.)
+timer\_example.zip ({{% resource_link 0518580c-2d4e-d54e-ba87-7c8ff7f8d4e0 "ZIP" %}}) (The ZIP file contains: timr\_xample\_code.pdf and main.c files.)
 
-uart\_example.zip ([ZIP]({{< baseurl >}}/resources/uart_example)) (The ZIP file contains: uart\_xample\_code.pdf and other supporting files for the communication peripherals UART.)
+uart\_example.zip ({{% resource_link 348d17c8-fbf5-eb92-f272-6e71f866db14 "ZIP" %}}) (The ZIP file contains: uart\_xample\_code.pdf and other supporting files for the communication peripherals UART.)
 
 
 {{< tdclose >}}
@@ -159,7 +167,7 @@ uart\_example.zip ([ZIP]({{< baseurl >}}/resources/uart_example)) (The ZIP file 
 
 ### OpAmps II
 
-Timers, communications, wireless ([PDF]({{< baseurl >}}/resources/lec8_opamps2))
+Timers, communications, wireless ({{% resource_link 6618a925-84f0-61e6-9b0d-9d60501b8a0f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -174,7 +182,7 @@ Timers, communications, wireless ([PDF]({{< baseurl >}}/resources/lec8_opamps2))
 
 ### Analog signal processing
 
-ADC, references, noise, synchronous detection ([PDF]({{< baseurl >}}/resources/lec9_anlg_procsn))
+ADC, references, noise, synchronous detection ({{% resource_link 9c6862f3-c6d6-3a57-5c16-ef1153aa06f1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -189,7 +197,7 @@ ADC, references, noise, synchronous detection ([PDF]({{< baseurl >}}/resources/l
 
 ### Sensors I
 
-Capacitive, impedance, optical ([PDF]({{< baseurl >}}/resources/lec10_sensors))
+Capacitive, impedance, optical ({{% resource_link ceac36b0-b9a1-d0f8-9882-e7dc5aa29b58 "PDF" %}})
 
 
 {{< tdclose >}}
