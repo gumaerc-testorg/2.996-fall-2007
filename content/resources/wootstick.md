@@ -5,6 +5,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/6a15c27128ec
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wootstick.ept
 uid: 6a15c271-28ec-067c-790a-9ae2df1f8d43
 ---
 Supporting file for lab assignments.
-

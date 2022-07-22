@@ -6,6 +6,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/a20003df579d
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for Lab 6: USB VB Communicator with Hex output. Includes executable file and source code.
-

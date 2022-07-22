@@ -5,6 +5,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/73ca2075accb
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: crc.h
 uid: 73ca2075-accb-5c6c-774f-978b7093cbb8
 ---
 Example code for calculating and checking CRC.
-

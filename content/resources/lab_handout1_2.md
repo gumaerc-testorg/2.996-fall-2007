@@ -5,6 +5,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/1436eef787ff
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab handout with guidelines and instructions for Labs 1 and 2.
-

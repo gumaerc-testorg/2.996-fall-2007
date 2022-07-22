@@ -6,6 +6,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/348d17c8fbf5
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for Lecture 7: OpAmps. The ZIP file contains: uart_xample_code.pdf and other supporting files for the communication peripherals UART.
-

@@ -6,6 +6,7 @@ file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/0518580c2d4e
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for Lecture 7: OpAmps. The ZIP file contains: timr_xample_code.pdf and main.c files.
-
