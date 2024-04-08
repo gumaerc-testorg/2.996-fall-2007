@@ -29,7 +29,7 @@ Labs 4, 5, and 6 handout ({{% resource_link c2d88636-9f04-b6ab-c8e3-102717abfbba
 Example Code and Supporting Files
 ---------------------------------
 
-PCB Artist v1.1 is required to view some files, and can be downloaded [here](http://www.download.com/PCB-Artist/3000-6677_4-10712335.html) .
+PCB Artist v1.1 is required to view some files, and can be downloaded {{% resource_link "5a51b38f-d0cd-4b7b-b94f-9c459599e7bf" "here" %}} .
 
 PCB library files for standard components used in class ({{% resource_link 6e468a6a-8982-c69c-b8b0-82bfe2358336 "CML" %}}) ({{% resource_link 0a65ce04-1d45-ab2d-6ca3-9a276b369235 "PSL" %}}) ({{% resource_link 8bde5a9e-b0e7-f265-5ecb-d9847fda3b64 "SSL" %}})
 
