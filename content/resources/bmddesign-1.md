@@ -2,6 +2,7 @@
 content_type: resource
 description: PCB library files for standard components used in class.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/8bde5a9eb0e7f2655ecbd9847fda3b64_bmddesign.ssl
+file_size: 83456
 file_type: application/msword
 learning_resource_types:
 - Labs

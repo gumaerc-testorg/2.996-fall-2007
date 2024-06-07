@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions on using the MSP430 Bootloader for laboratory assignments.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/05144f615ad36978baf3e02ac93e1b87_bootloader.pdf
+file_size: 93718
 file_type: application/pdf
 learning_resource_types:
 - Labs
