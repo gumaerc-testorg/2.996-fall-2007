@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on OpAmps, basics programming concepts, memory organization,
   clocks, and ADCs.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/907a94c95f857bc54acc4b7f140acad4_lec7_opamps1.pdf
+file_size: 476183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

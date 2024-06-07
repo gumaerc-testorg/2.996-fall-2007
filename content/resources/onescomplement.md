@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for Lecture 7: OpAmps. Diagram of 8-bit one''s complement
   integers.'
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/b13783f3478520b9da3196062979b834_onescomplement.pdf
+file_size: 11877
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

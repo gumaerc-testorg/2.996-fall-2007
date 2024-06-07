@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for Lecture 7: OpAmps. The ZIP file contains: main.c
   and other supporting files for demo.'
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/ba9c0786cd0498dffa01b59344b178e0_demo.zip
+file_size: 24265
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes

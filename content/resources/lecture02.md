@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on Basic electronics, Linear elements, Thevenin-Norton,
   impedance analysis, and fundamentals and PCB layout.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/4062cb2eaf0a32999c312f0c7accbc5b_lecture02.pdf
+file_size: 201885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

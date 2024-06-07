@@ -2,6 +2,7 @@
 content_type: resource
 description: USB VB Terminal software for Lab 6.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/fcc2e1fca3f868e22796253a64ddb71e_VBTerminal.exe
+file_size: 57344
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Labs
