@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab handout with guidelines and deliverables for Labs 4, 5, and 6.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/c2d886369f04b6abc8e3102717abfbba_lab_handout_456.pdf
+file_size: 52189
 file_type: application/pdf
 learning_resource_types:
 - Labs

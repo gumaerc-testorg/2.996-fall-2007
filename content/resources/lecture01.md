@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides with an introduction to the biomedical devices design
   laboratory.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/be561b7694f3fbdf8035a12d25d2a2b5_lecture01.pdf
+file_size: 487585
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

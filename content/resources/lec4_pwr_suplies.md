@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on power supplies, proper bypassing, linear power supplies,
   and switching power supplies.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/095410522b047bebb91d8395943c60fd_lec4_pwr_suplies.pdf
+file_size: 1510821
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Video demonstration of the Interactive Balloon project for Lecture 3.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/3b7576ab316edc1ccde83af27c4a780a_Balloons.mov
+file_size: 13082276
 file_type: video/quicktime
 learning_resource_types:
 - Lecture Notes

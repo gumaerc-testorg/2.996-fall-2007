@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture handout: "The Interactive Balloon: Sensing, Actuation and Behavior
   in a Common Object" by Joseph A. Paradiso.'
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/e15b323548bb14bf2a5ff8e4df49c640_96_04_ibm_bln_pr.pdf
+file_size: 239276
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

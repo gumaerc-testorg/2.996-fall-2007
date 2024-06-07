@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab handout with guidelines and instructions for Labs 1 and 2.
 file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/1436eef787ff370957273273493a9007_lab_handout1_2.pdf
+file_size: 229790
 file_type: application/pdf
 learning_resource_types:
 - Labs
