@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for Lecture 7: OpAmps. The ZIP file contains: timr_xample_code.pdf
   and main.c files.'
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/0518580c2d4ed54eba877c8ff7f8d4e0_timer_example.zip
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/0518580c2d4ed54eba877c8ff7f8d4e0_timer_example.zip
 file_size: 12072
 file_type: application/zip
 learning_resource_types:

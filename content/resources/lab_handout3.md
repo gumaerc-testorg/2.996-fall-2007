@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab handout with tips and tricks for completing Lab 3: PCB Layout.'
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/b44ec7a50730d04d90638927c85465d1_lab_handout3.pdf
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/b44ec7a50730d04d90638927c85465d1_lab_handout3.pdf
 file_size: 60386
 file_type: application/pdf
 learning_resource_types:
