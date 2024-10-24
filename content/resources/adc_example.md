@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for Lecture 7: OpAmps. The ZIP file contains: adc_xample_code.pdf
   and main.c files.'
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/cacb013e4101207aa688df8901f1d876_adc_example.zip
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/cacb013e4101207aa688df8901f1d876_adc_example.zip
 file_size: 12940
 file_type: application/zip
 learning_resource_types:
