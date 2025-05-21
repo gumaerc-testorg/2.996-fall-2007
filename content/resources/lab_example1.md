@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design files for for the first lab assignment.
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/99846784ae789e6687cc9415ef0f967a_lab_example1.pcb
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/99846784ae789e6687cc9415ef0f967a_lab_example1.pcb
 file_size: 176640
 file_type: application/msword
 learning_resource_types:

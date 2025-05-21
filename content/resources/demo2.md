@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for Lecture 7: OpAmps. The ZIP file contains: main.c,
   crc.h, and other supporting files for 2nd demo.'
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/bf7fab3eba838e4a050713097dd80c71_demo2.zip
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/bf7fab3eba838e4a050713097dd80c71_demo2.zip
 file_size: 34685
 file_type: application/zip
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on analog signal processing.
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/9c6862f3c6d63a575c16ef1153aa06f1_lec9_anlg_procsn.pdf
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/9c6862f3c6d63a575c16ef1153aa06f1_lec9_anlg_procsn.pdf
 file_size: 663395
 file_type: application/pdf
 learning_resource_types:
