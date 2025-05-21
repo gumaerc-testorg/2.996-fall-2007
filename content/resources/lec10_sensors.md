@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture slides on sensors: capacitive, impedance, and optical.'
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/ceac36b0b9a1d0f89882e7dc5aa29b58_lec10_sensors.pdf
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/ceac36b0b9a1d0f89882e7dc5aa29b58_lec10_sensors.pdf
 file_size: 583416
 file_type: application/pdf
 learning_resource_types:

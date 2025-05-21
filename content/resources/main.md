@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Supporting file for Lecture 7: OpAmps. Computer program.'
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/0fce9a9a824d7c1292cb99ffc7a47117_main.c
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/0fce9a9a824d7c1292cb99ffc7a47117_main.c
 file_size: 6841
 file_type: text/plain
 learning_resource_types:
