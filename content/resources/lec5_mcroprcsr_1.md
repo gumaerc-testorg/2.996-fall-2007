@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on microprocessors, basic topologies, feedback, stability,
   and accurate peak detector.
-file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/0093fffa38f6e61e77171652db9af61b_lec5_mcroprcsr_1.pdf
+file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/0093fffa38f6e61e77171652db9af61b_lec5_mcroprcsr_1.pdf
 file_size: 1424809
 file_type: application/pdf
 learning_resource_types:
