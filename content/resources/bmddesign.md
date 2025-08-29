@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: PCB library files for standard components used in class.
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/6e468a6a8982c69cb8b082bfe2358336_bmddesign.cml
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/6e468a6a8982c69cb8b082bfe2358336_bmddesign.cml
 file_size: 50176
 file_type: application/msword
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
