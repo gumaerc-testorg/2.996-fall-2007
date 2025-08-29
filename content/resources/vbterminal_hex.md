@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Supporting file for Lab 6: USB VB Communicator with Hex output. Includes
   executable file and source code.'
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/a20003df579d233b55d7a7b6773d519c_VBTerminal_Hex.zip
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/a20003df579d233b55d7a7b6773d519c_VBTerminal_Hex.zip
 file_size: 88883
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
