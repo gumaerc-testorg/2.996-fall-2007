@@ -3,7 +3,7 @@ content_type: page
 description: This section provides handouts covering each of the lab sessions, and
   example code and documentation for some of the lab activities listed by topic.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 90c618ee-b6ce-6dbd-d29d-9ac27c71999d

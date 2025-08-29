@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slide on Robopsy, a low-cost, CT-guided, tele-robotic percutaneous
   lung biopsy assistant.
-file: /courses/2-996-biomedical-devices-design-laboratory-fall-2007/8ec5c46c02da5d65885ccce05951393d_robopsy_slide.pdf
+file: /ol-ocw-studio-app/courses/2-996-biomedical-devices-design-laboratory-fall-2007/8ec5c46c02da5d65885ccce05951393d_robopsy_slide.pdf
 file_size: 15333
 file_type: application/pdf
 learning_resource_types:
